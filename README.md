@@ -3,7 +3,7 @@ Repro for bug MAUI WebView is not displaying body background-image #4733
 
 When debugging on Android 11 Device, the WebView does not display the background image of this URL https://maui20220216.azurewebsites.net/test.html
 
-<img src="Android11-WebView-DoesNotShowBackgroundImage.jpeg" />
+<img src="Android11-WebView-DoesNotShowBackgroundImage.jpeg" style="width:25%" />
 
 I observed this on my phone, a HMD Global Nokia 5.3 (Android 11.0 - API 30)
 
